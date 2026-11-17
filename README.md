@@ -44,6 +44,25 @@ LIMITLESS explores a single accessible experience for health learning, personal 
 
 The initial README reported development verification of these modules. This portfolio update inspected key source files and tests but has not independently reproduced every feature or live external service. English, Telugu and Hindi interface translations are documented; other locales may fall back to English.
 
+## Application preview
+
+The following images are supplied project previews committed to the repository. They are not newly generated mockups or evidence of clinical validation.
+
+<p align="center">
+  <img src="preview-dashboard-full.png" alt="LIMITLESS full dashboard preview" width="100%"/>
+</p>
+
+<table>
+<tr>
+<td width="50%"><img src="preview-dashboard.png" alt="LIMITLESS dashboard preview"/></td>
+<td width="50%"><img src="preview-dashboard-2.png" alt="LIMITLESS dashboard preview 2"/></td>
+</tr>
+<tr>
+<td><img src="preview-dashboard-4.png" alt="LIMITLESS dashboard preview 4"/></td>
+<td><img src="preview-dashboard-5.png" alt="LIMITLESS dashboard preview 5"/></td>
+</tr>
+</table>
+
 ## Technology stack
 
 | Layer | Technology |
